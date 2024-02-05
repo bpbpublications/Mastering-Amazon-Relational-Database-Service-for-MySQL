@@ -1,6 +1,7 @@
 # Mastering Amazon Relational Database Service for MySQL
 
 Toolkit for unlocking the power of Amazon RDS and propelling businesses toward success in the digital age
+
 This is the repository for [Mastering Amazon Relational Database Service for MySQL
 ](https://bpbonline.com/products/mastering-amazon-relational-database-service-for-mysql?variant=43195509113032),published by BPB Publications.
 
